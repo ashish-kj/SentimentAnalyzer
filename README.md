@@ -12,7 +12,7 @@ Sentiment Analyzer using Mistral via Ollama, integrated with FastAPI for the bac
 - **Model Serving**: Ollama (Mistral model)
 - **Version Control**: Git & GitHub
 
-## Demo Results
+## Demo Results (Screenshots)
 
 **Positive Sentiment:**
 ![Positive Feedback](DemoImages/PositiveFeedback.png)
